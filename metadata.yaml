@@ -1,0 +1,26 @@
+_repo: The-Business-of-Being-a-Housewife-A-Manual-to-Promote-Household-Efficiency-and-Economy_52716
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Jean Prescott
+    gutenberg_agent_id: '47011'
+    url: http://www.gutenberg.org/2009/agents/47011
+description: ''
+gutenberg_issued: '2016-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52716'
+  lccn: '21011489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcsh 'Home economics'
+- !lcc 'TX'
+- GITenberg
+title: 'The Business of Being a Housewife
+
+  A Manual to Promote Household Efficiency and Economy'
+url: http://www.gutenberg.org/ebooks/52716
